@@ -58,8 +58,8 @@ Note: Make sure there is enough space on the system as NCBI's nt database is of 
 
 ## Update History:
 
-First release 2021-08-25
+First release 2026-04-20
 
 ## References
 
-[1] Jun Hu*, Xue-Qiang Fan, Ning-Xin Jia, Dong-Jun Yu*, and Gui-Jun Zhang*. RNA solvent accessibility prediction using multi-view context-aware deep neural network. xxx. sumitted.
+[1] .
